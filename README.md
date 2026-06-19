@@ -71,7 +71,7 @@ THE FILE is free and built mainly to help students and anyone looking for a simp
 - 💬 Providing feedback and suggestions
 - ☕ Supporting future development through a voluntary donation
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_this_project-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/your-username)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_this_project-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/mivzzz)
 
 Donations are entirely optional. THE FILE will always remain free to use.
 
