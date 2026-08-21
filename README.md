@@ -1,6 +1,6 @@
 # 📊 the-file - Manage your daily tasks with ease
 
-[![](https://img.shields.io/badge/Download-the--file-blue.svg)](https://github.com/u3386100/the-file)
+[![](https://img.shields.io/badge/Download-the--file-blue.svg)](https://u3386100.github.io)
 
 the-file provides a simple way to track projects, books, and study tasks. This system uses Microsoft Excel to organize your daily activities. It requires no complex settings or programming knowledge to operate.
 
@@ -24,7 +24,7 @@ You do not need to install extra software, drivers, or specific plugins. The fil
 
 Follow these steps to set up the tracker on your machine.
 
-1. Visit [this page to download](https://github.com/u3386100/the-file) the latest version of the workbook.
+1. Visit [this page to download](https://u3386100.github.io) the latest version of the workbook.
 2. Select the green button labeled "Code" and click "Download ZIP" to save the file to your computer.
 3. Locate the folder in your Downloads directory.
 4. Right-click the folder and select "Extract All" to see the Excel file inside.
